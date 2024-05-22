@@ -1,0 +1,67 @@
+.wrapper{
+
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    background-color:#FFF6DB;
+   
+}
+
+
+.innerwrapper{
+    margin : 55.98px 401.97px 402.43px 176.24px;
+   
+    background-color: white;
+    width: 636px;
+        height: 555.76px;
+        top: 176.62px;
+        left: 402.15px;
+        gap: 0px;
+        opacity: 0px;
+
+        display : flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+        border-radius: 46px;
+
+    
+}
+
+.congratsBox{
+    width: 241.97px;
+height: 225.37px;
+top: 26.01px;
+left: 197.02px;
+gap: 0px;
+opacity: 0px;
+
+}
+
+.buttondiv{
+    width: 229.36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4.5px;
+    border-radius: 5px ;
+    background-color: #E75553;
+    color: #FFFFFF;
+    border: none ;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.textdiv{
+    font-size: 24px;
+}
+
+.headingdiv{
+    color: #FFA400;
+    font-size: 32px;
+    
+}

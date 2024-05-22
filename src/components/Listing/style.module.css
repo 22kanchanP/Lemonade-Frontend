@@ -1,0 +1,58 @@
+
+.wrapper{
+ 
+    padding: 20px;
+    margin: 0;
+  
+    background-color: antiquewhite;
+}
+.outerwrapper{
+padding: 20px;
+margin: 20px;
+ 
+   
+}
+
+.innerwrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     
+    padding: 20px;
+    margin: 20px;
+
+}
+
+.waitlistheading{
+    font-size: 28px;
+    color: #FFFFFF;
+  background-color: #E75553;
+  border: none;
+ 
+}
+
+table{
+    width: 100%;
+    height: 100%;
+}
+
+table, th, td {
+
+    border: 2px solid  #000000A3;
+    border-collapse: collapse;
+    color: #000000;
+    
+  }
+
+  tr{
+    font-size: 28px;
+    padding: 20px;
+    
+  }
+
+  th,td{
+   
+    font-size: 20px;
+    padding: 20px;
+    
+  }

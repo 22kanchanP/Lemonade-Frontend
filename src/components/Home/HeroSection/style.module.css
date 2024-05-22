@@ -1,0 +1,111 @@
+
+.wrapper{
+    width : 100%;
+    display: flex;
+    padding:  0;
+}
+
+.innerwrapper{
+   margin : 0px 0.06px 149px 0.94px;
+    background: linear-gradient(180deg, rgba(255, 226, 92, 0.1) 0%, rgba(255, 231, 163, 0.056) 100%);
+    width: 100%;   
+}
+
+.outerwrapper{
+   width : 100%;
+   padding: 0;
+   display: flex;
+}
+
+.heroSection{
+   margin : 77px 139px 40px 139px;
+   display: flex;  
+}
+
+.leftSection{
+   margin : 40.37px 132.57px 20.63px 40.43px;
+}
+.textdiv{
+   margin : 28px 0;
+}
+
+.topdiv{
+   margin : 0 39.6px 28px 0;
+   font-size: 22px;
+   
+}
+
+.middlediv{
+   font-size: 24px;
+}
+.belowmiddlediv{
+   font-weight: 600 ;
+}
+
+.leftbuttton{
+   width: 229.36px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   gap: 4.5px;
+   border-radius: 5px ;
+   background-color: #E75553;
+   color: #FFFFFF;
+   border: none ;
+   text-decoration: none;
+   padding: 10px;
+   font-size: 22px;
+
+}
+
+.buttonParent{
+
+   margin : 28px 324.64px 126.45px 0;
+
+}
+
+
+.rightSection{
+
+   margin: 0 ;
+
+}
+
+.juiceGlass{
+   width: 475px;
+   height: 557px;
+}
+
+.bottomdiv{
+ 
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   justify-content: space-between;
+  
+   flex-wrap: wrap;
+   gap : 20px;
+   
+}
+
+.bottomText{
+   justify-content: space-between;
+   
+   
+}
+
+.centertext{
+  
+ 
+   width : 638px;
+   height: 106px;
+}
+
+.emojidiv{
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+   display: flex;
+   gap : 31px;
+}
